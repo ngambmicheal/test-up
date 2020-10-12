@@ -8,6 +8,7 @@
 /resources
 /storage
 /tests
+
 .env
 .env.backup
 .phpunit.result.cache
